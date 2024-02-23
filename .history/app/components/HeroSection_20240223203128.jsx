@@ -50,7 +50,7 @@ const HeroSection = () => {
             </Link>
             <Link
               href={
-                "https://drive.google.com/file/d/1MSO8mZSGPyJm-AXqfUJlZW7qvAMLTtAP/view?usp=sharing"
+                "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=divyanshi.rastogi105@gmail.com"
               }
             >
               <button className="px-1 py-1 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 hover:bg-slate-800 text-white  mt-3">

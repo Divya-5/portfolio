@@ -1,6 +1,5 @@
 "use client";
 import Image from "next/image";
-import Link from "next/link";
 import React from "react";
 import { TypeAnimation } from "react-type-animation";
 
@@ -34,32 +33,20 @@ const HeroSection = () => {
           ;
           <p className="text-[#ADB7BE] mb-6 text-base sm:text-lg lg:text-xl">
             Im a JavaScript developer with with 5+ years of experience in both
-            frontend development . My strength lies in using my tech skills to
-            help businesses grow. I have learned a lot over the years and enjoy
-            working with others to make great digital products.
+            frontend development . My strength lies in using my tech
+            skills to help businesses grow. I have learned a lot over the years
+            and enjoy working with others to make great digital products.
           </p>
           <div>
-            <Link
-              href={
-                "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=divyanshi.rastogi105@gmail.com"
-              }
-            >
-              <button className="px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 hover:bg-slate-200 text-white">
-                Hire Me{" "}
-              </button>
-            </Link>
-            <Link
-              href={
-                "https://drive.google.com/file/d/1MSO8mZSGPyJm-AXqfUJlZW7qvAMLTtAP/view?usp=sharing"
-              }
-            >
-              <button className="px-1 py-1 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 hover:bg-slate-800 text-white  mt-3">
-                <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
-                  {" "}
-                  Download CV{" "}
-                </span>
-              </button>
-            </Link>
+            <button className="px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 hover:bg-slate-200 text-white">
+              Hire Me{" "}
+            </button>
+            <button className="px-1 py-1 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 hover:bg-slate-800 text-white  mt-3">
+              <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
+                {" "}
+                Download CV{" "}
+              </span>
+            </button>
           </div>
         </div>
         <div className="col-span-5 place-self-center mt-4 lg:mt-0">
