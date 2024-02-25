@@ -31,7 +31,7 @@ const projectData = [
     id: 3,
     title: "Straumann South Africa Teeth Today ",
     description:
-      "Created a new site for Teethtoday south Africa region according to latest design  similar to the US version.",
+      "Created a new site for Teethtoday south Africa region according to latest design  similar to the US version. .",
     image: "/images/projects/st_za.png",
     tag: ["All", "Web", "Mobile"],
     gitUrl: "https://www.linkedin.com/in/divya5rastogi/details/projects/",
