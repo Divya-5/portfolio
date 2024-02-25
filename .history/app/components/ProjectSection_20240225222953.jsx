@@ -11,43 +11,61 @@ const projectData = [
     title: "ISB Hyderabad CEE ",
     description:
       "Revamped the footer according to the latest design. Re-design the program finder for the ISB exceed.",
-    image: "/images/projects/finder.png",
-    tag: ["All", "Web", "Mobile"],
-    gitUrl: "https://www.linkedin.com/in/divya5rastogi/details/projects/",
+    image: "/images/projects",
+    tag: ["All", "Web"],
+    gitUrl: "/",
     previewUrl: "https://execed.isb.edu/en.html",
   },
   {
     id: 2,
     title: "ISB Hyderabad MIHM",
     description:
-      "Authored the whole MIHM site from scratch by doing the code level changes according to the latest design from Figma. Develop MIHM (ISB) whole site with the new features and functionalities by developing new components coded in JAVA. Created Policies for just MIHM at the component level so it might not hamper the actual styles for the component.",
-    image: "/images/projects/mihm.png",
-    tag: ["All", "Web", "Mobile"],
-    gitUrl: "https://www.linkedin.com/in/divya5rastogi/details/projects/",
-    previewUrl:
-      "https://www.isb.edu/en/research-thought-leadership/research-centres-institutes/max-institute-of-health-care-management/about-mihm.html",
+      "Revamped the footer according to the latest design. Worked on the similar programs component re-design. Re-design the program finder for the ISB exceed.",
+    image: "/images/about-image.png",
+    tag: ["All", "Mobile"],
+    gitUrl: "/",
+    previewUrl: "/",
   },
   {
     id: 3,
-    title: "Straumann South Africa Teeth Today ",
+    title: "Citrix Podio ",
     description:
-      "Created a new site for Teethtoday south Africa region similar to the US version. Developed the whole site according to the latest design and content availability.",
-    image: "/images/projects/st_za",
-    tag: ["All", "Web", "Mobile"],
-    gitUrl: "https://www.linkedin.com/in/divya5rastogi/details/projects/",
-    previewUrl:
-      "https://www.straumann.com/group/za/en/patients/teethtoday.html",
+      "Revamped the footer according to the latest design. Worked on the similar programs component re-design. Re-design the program finder for the ISB exceed.",
+    image: "/images/about-image.png",
+    tag: ["All", "Web"],
+    gitUrl: "/",
+    previewUrl: "/",
   },
   {
     id: 4,
-    title: "Straumann Australia Teeth Today ",
+    title: "Citrix Ready ",
     description:
-      "Designed the Frontend Architecture For The Australia Teethtoday Site built in AEM and HTML5, CSS, JS, Bootstrap 4.",
-    image: "/images/projects/st_au",
-    tag: ["All", "Web", "Mobile"],
-    gitUrl: "https://www.linkedin.com/in/divya5rastogi/details/projects/",
-    previewUrl: "https://www.teethtoday.com/au/en/home.html",
-  }
+      "Revamped the footer according to the latest design. Worked on the similar programs component re-design. Re-design the program finder for the ISB exceed.",
+    image: "/images/about-image.png",
+    tag: ["All", "Web"],
+    gitUrl: "/",
+    previewUrl: "/",
+  },
+  {
+    id: 5,
+    title: "Citrix calculator ",
+    description:
+      "Revamped the footer according to the latest design. Worked on the similar programs component re-design. Re-design the program finder for the ISB exceed.",
+    image: "/images/about-image.png",
+    tag: ["All", "Web"],
+    gitUrl: "/",
+    previewUrl: "/",
+  },
+  {
+    id: 6,
+    title: "Citrix Docs  ",
+    description:
+      "Revamped the footer according to the latest design. Worked on the similar programs component re-design. Re-design the program finder for the ISB exceed.",
+    image: "/images/about-image.png",
+    tag: ["All", "Web"],
+    gitUrl: "/",
+    previewUrl: "/",
+  },
 ];
 
 const ProjectSection = () => {

@@ -32,7 +32,7 @@ const projectData = [
     title: "Straumann South Africa Teeth Today ",
     description:
       "Created a new site for Teethtoday south Africa region similar to the US version. Developed the whole site according to the latest design and content availability.",
-    image: "/images/projects/st_za",
+    image: "/images/projects/mihm.png",
     tag: ["All", "Web", "Mobile"],
     gitUrl: "https://www.linkedin.com/in/divya5rastogi/details/projects/",
     previewUrl:
@@ -43,11 +43,28 @@ const projectData = [
     title: "Straumann Australia Teeth Today ",
     description:
       "Designed the Frontend Architecture For The Australia Teethtoday Site built in AEM and HTML5, CSS, JS, Bootstrap 4.",
-    image: "/images/projects/st_au",
     tag: ["All", "Web", "Mobile"],
     gitUrl: "https://www.linkedin.com/in/divya5rastogi/details/projects/",
     previewUrl: "https://www.teethtoday.com/au/en/home.html",
-  }
+  },
+  {
+    id: 5,
+    title: "Citrix calculator ",
+    description:
+      "Revamped the footer according to the latest design. Worked on the similar programs component re-design. Re-design the program finder for the ISB exceed.",
+    tag: ["All", "Web", "Mobile"],
+    gitUrl: "https://www.linkedin.com/in/divya5rastogi/details/projects/",
+    previewUrl: "/",
+  },
+  {
+    id: 6,
+    title: "Citrix Docs  ",
+    description:
+      "Revamped the footer according to the latest design. Worked on the similar programs component re-design. Re-design the program finder for the ISB exceed.",
+    tag: ["All", "Web", "Mobile"],
+    gitUrl: "https://www.linkedin.com/in/divya5rastogi/details/projects/",
+    previewUrl: "/",
+  },
 ];
 
 const ProjectSection = () => {
