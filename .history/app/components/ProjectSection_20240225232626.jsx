@@ -43,11 +43,11 @@ const projectData = [
     title: "Straumann Australia Teeth Today ",
     description:
       "Designed the Frontend Architecture For The Australia Teethtoday Site built in AEM and HTML5, CSS, JS, Bootstrap 4.",
-    image: "/images/projects/st_au.png",
+    image: "/images/projects/st_au.p",
     tag: ["All", "Web", "Mobile"],
     gitUrl: "https://www.linkedin.com/in/divya5rastogi/details/projects/",
     previewUrl: "https://www.teethtoday.com/au/en/home.html",
-  },
+  }
 ];
 
 const ProjectSection = () => {
