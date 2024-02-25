@@ -29,7 +29,7 @@ const projectData = [
   },
   {
     id: 3,
-    title: "Straumann SA Teeth Today ",
+    title: "Straumann  Teeth Today ",
     description:
       "Created a new site for Teethtoday south Africa region according to latest design  similar to the US version.",
     image: "/images/projects/st_za.png",
